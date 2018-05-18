@@ -9,6 +9,7 @@
       "tools/maps/style.css",
       "tools/print/style.css",
       "tools/show/style.css",
+      "tools/there/style.css",
       "tools/history/style.css",
       "tools/related/style.css"
     ],
@@ -19,6 +20,7 @@
       "tools/maps/pure.js",
       "tools/print/content.js",
       "tools/show/content.js",
+      "tools/there/content.js",
       "tools/history/content.js",
       "tools/related/content.js",
       "core/content.js"
